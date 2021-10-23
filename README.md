@@ -17,7 +17,7 @@ By [Atlas-Rhythm](http://github.com/Atlas-Rhythm).
 [PaulMapper](https://github.com/HypersonicSharkz/PaulMapper/releases/) For The True Memers. 
 By [HypersonicSharkz](https://github.com/HypersonicSharkz)
 
-# GreenIsLess Plugins
+# GreenIsLess's Plugins
 I Haven't Made Anything Yet.
 
 # Creator And Contributers
