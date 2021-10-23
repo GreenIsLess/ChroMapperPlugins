@@ -7,15 +7,18 @@ Plugins may be outdated.
 Plugins are made by different people, and new plugins don't appear every second like Beat Saber Mods (kinda) do.
 
 # Must-Use Plugins
-[Error Checker](https://github.com/Top-Cat/CM-ErrorChecker/releases/download/0.4.0/ErrorChecker.zip) 
+[Error Checker](https://github.com/Top-Cat/CM-ErrorChecker/releases/) 
 By [Top-Cat](https://github.com/Top-Cat).
 
-[AutoBookmarker](https://github.com/Atlas-Rhythm/ChroMapperAutoBookmarker/releases/download/1.1.0/ChroMapperAutoBookmarkerPlugin.1.1.0.zip) 
+[AutoBookmarker](https://github.com/Atlas-Rhythm/ChroMapperAutoBookmarker/releases/) 
 By [Atlas-Rhythm](http://github.com/Atlas-Rhythm).
 
 # Other Plugins
-[PaulMapper](https://github.com/HypersonicSharkz/PaulMapper/releases/download/v0.3.1.2/PaulMapper.zip) For The True Memers. 
+[PaulMapper](https://github.com/HypersonicSharkz/PaulMapper/releases/) For The True Memers. 
 By [HypersonicSharkz](https://github.com/HypersonicSharkz)
+
+# GreenIsLess Plugins
+I Haven't Made Anything Yet.
 
 # Creator And Contributers
 BoogieHasFun
@@ -24,3 +27,8 @@ GreenIsLess
 
 ---------------------
 For better updates, please vist @GreenIsLess fork.
+
+# Other Notes
+@BoogieHasFun Might Not Be Uppdating His Repo Anymore, Go To [@GreenIsLess](http://github.com/GreenIsLess/ChroMapperPlugins "@GreenIsLess's") Fork.
+
+Last Edited By @GreenIsLess.
