@@ -26,4 +26,4 @@ BoogieHasFun
 GreenIsLess
 
 ---------------------
-For better updates, please vist @GreenIsLess fork.
+For better updates, please vist [@GreenIsLess fork.](https://github.com/GreenIsLess/ChroMapperPlugins)
