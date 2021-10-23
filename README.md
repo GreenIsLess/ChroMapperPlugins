@@ -11,6 +11,9 @@ Plugins are made by different people, and new plugins don't appear every second 
 
 [AutoBookmarker](https://github.com/Atlas-Rhythm/ChroMapperAutoBookmarker/releases/download/1.1.0/ChroMapperAutoBookmarkerPlugin.1.1.0.zip) By [Atlas-Rhythm](http://github.com/Atlas-Rhythm).
 
+# Other Plugins
+[PaulMapper](https://github.com/HypersonicSharkz/PaulMapper/releases/download/v0.3.1.2/PaulMapper.zip) For The True Memers, By [HypersonicSharkz](https://github.com/HypersonicSharkz)
+
 # Creator And Contributers
 BoogieHasFun
 
