@@ -17,16 +17,6 @@ By [Top-Cat](https://github.com/Top-Cat).
 By [Atlas-Rhythm](http://github.com/Atlas-Rhythm).
 
 # Other Plugins
-[PaulMapper](https://github.com/HypersonicSharkz/PaulMapper/releases/download/v0.3.1.2/PaulMapper.zip) For The True Memers. 
-
-=======
-[Error Checker](https://github.com/Top-Cat/CM-ErrorChecker/releases/) 
-By [Top-Cat](https://github.com/Top-Cat).
-
-[AutoBookmarker](https://github.com/Atlas-Rhythm/ChroMapperAutoBookmarker/releases/) 
-By [Atlas-Rhythm](http://github.com/Atlas-Rhythm).
-
-# Other Plugins
 [PaulMapper](https://github.com/HypersonicSharkz/PaulMapper/releases/) For The True Memers. 
 
 By [HypersonicSharkz](https://github.com/HypersonicSharkz)
@@ -41,8 +31,6 @@ I Haven't Made Anything Yet.
 
 ---------------------
 
-For better updates, please vist [@GreenIsLess fork.](https://github.com/GreenIsLess/ChroMapperPlugins)
-=======
 For better updates, please vist @GreenIsLess fork.
 
 # Other Notes
