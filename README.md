@@ -17,4 +17,4 @@ BoogieHasFun
 GreenIsLess
 
 ---------------------
-For better updates, please vist #GreenIsLess fork.
+For better updates, please vist @GreenIsLess fork.
