@@ -21,9 +21,9 @@ By [HypersonicSharkz](https://github.com/HypersonicSharkz)
 I Haven't Made Anything Yet.
 
 # Creator And Contributers
-BoogieHasFun
+BoogieHasFun - Creator
 
-GreenIsLess
+GreenIsLess - Dev
 
 ---------------------
 For better updates, please vist @GreenIsLess fork.
