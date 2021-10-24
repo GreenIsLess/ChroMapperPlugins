@@ -27,8 +27,8 @@ I Haven't Made Anything Yet.
 
 ## How to install plugins.
 First download them.
-T
-hen find ChroMapper folder and open it.
+
+Then find ChroMapper folder and open it.
 
 Then find the folder called: "Plugins"
 
