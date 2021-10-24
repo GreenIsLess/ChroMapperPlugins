@@ -25,10 +25,22 @@ I Haven't Made Anything Yet.
 
 [GreenIsLess](http://github.com/GreenIsLess) - Dev
 
----------------------
+## How to install plugins.
+First download them.
+T
+hen find ChroMapper folder and open it.
+
+Then find the folder called: "Plugins"
+
+Then take zip file and unzip it.
+
+Find a dll and drag & drop that into the plugins folder.
+
+![Pictue](Pictures/draganddrop.gif)
+--------------------
 For better updates, please vist @GreenIsLess fork.
 
 # Other Notes
 [@BoogieHasFun](http://github.com/BoogieHasFun/ChroMapperPlugins) Might Not Be Updating His Repo Anymore, Go To [@GreenIsLess](http://github.com/GreenIsLess/ChroMapperPlugins "@GreenIsLess's") Fork.
 
-Last Edited By @GreenIsLess.
+Editors: [@BoogieHasFun](http://github.com/BoogieHasFun) and [@GreenIsLess](http://github.com/GreenIsLess)
