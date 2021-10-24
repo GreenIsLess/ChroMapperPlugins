@@ -7,18 +7,14 @@ Plugins may be outdated.
 Plugins are made by different people, and new plugins don't appear every second like Beat Saber Mods (kinda) do.
 
 # Must-Use Plugins
-
-[Error Checker](https://github.com/Top-Cat/CM-ErrorChecker/releases/download/0.4.0/ErrorChecker.zip) 
-
+[Error Checker](https://github.com/Top-Cat/CM-ErrorChecker/releases/) 
 By [Top-Cat](https://github.com/Top-Cat).
 
-[AutoBookmarker](https://github.com/Atlas-Rhythm/ChroMapperAutoBookmarker/releases/download/1.1.0/ChroMapperAutoBookmarkerPlugin.1.1.0.zip) 
-
+[AutoBookmarker](https://github.com/Atlas-Rhythm/ChroMapperAutoBookmarker/releases/) 
 By [Atlas-Rhythm](http://github.com/Atlas-Rhythm).
 
 # Other Plugins
 [PaulMapper](https://github.com/HypersonicSharkz/PaulMapper/releases/) For The True Memers. 
-
 By [HypersonicSharkz](https://github.com/HypersonicSharkz)
 
 # GreenIsLess's Plugins
@@ -29,11 +25,22 @@ I Haven't Made Anything Yet.
 
 [GreenIsLess](http://github.com/GreenIsLess) - Dev
 
----------------------
+## How to install plugins.
+First download them.
 
+Then find ChroMapper folder and open it.
+
+Then find the folder called: "Plugins"
+
+Then take zip file and unzip it.
+
+Find a dll and drag & drop that into the plugins folder.
+
+![Pictue](Pictures/draganddrop.gif)
+--------------------
 For better updates, please vist @GreenIsLess fork.
 
 # Other Notes
-@BoogieHasFun Might Not Be Updating His Repo Anymore, Go To [@GreenIsLess](http://github.com/GreenIsLess/ChroMapperPlugins "@GreenIsLess's") Fork.
+[@BoogieHasFun](http://github.com/BoogieHasFun/ChroMapperPlugins) Might Not Be Updating His Repo Anymore, Go To [@GreenIsLess](http://github.com/GreenIsLess/ChroMapperPlugins "@GreenIsLess's") Fork.
 
-Last Edited By @GreenIsLess.
+Editors: [@BoogieHasFun](http://github.com/BoogieHasFun) and [@GreenIsLess](http://github.com/GreenIsLess)
