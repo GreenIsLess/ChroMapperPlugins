@@ -29,6 +29,6 @@ I Haven't Made Anything Yet.
 For better updates, please vist @GreenIsLess fork.
 
 # Other Notes
-@BoogieHasFun Might Not Be Updating His Repo Anymore, Go To [@GreenIsLess](http://github.com/GreenIsLess/ChroMapperPlugins "@GreenIsLess's") Fork.
+[@BoogieHasFun](http://github.com/BoogieHasFun/ChroMapperPlugins) Might Not Be Updating His Repo Anymore, Go To [@GreenIsLess](http://github.com/GreenIsLess/ChroMapperPlugins "@GreenIsLess's") Fork.
 
 Last Edited By @GreenIsLess.
